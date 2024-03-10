@@ -11,7 +11,7 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 ---
 
 ## Security Audit Workflow 
-1. Review and analyst supporting materials
+1. Review and analyze supporting materials
    - Botium-Toys: Scope,goals, and risk assessment report
    - Control categories
 2. Conduct the audit 
