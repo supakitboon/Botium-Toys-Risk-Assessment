@@ -21,7 +21,7 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 
 ---
 ## 1. Review supporting material
-[1.1 Botium-Toys: Scope,goals, and risk assessment report](https://github.com/supakitboon/Botium-Toys-Risk-Assessment/blob/f4861260ed4b091853e637c4442819c73088780a/Botium-Toys%3A%20Scope%2Cgoals%2C%20and%20risk%20assessment%20report.md)
+[1.1 Botium-Toys: Scope,goals, and risk assessment report](https://github.com/supakitboon/Botium-Toys-Risk-Assessment/blob/f4861260ed4b091853e637c4442819c73088780a/Botium-Toys%3A%20Scope%2Cgoals%2C%20and%20risk%20assessment%20report.md)  
 [1.2 Control categories](https://github.com/supakitboon/Botium-Toys-Risk-Assessment/blob/f4861260ed4b091853e637c4442819c73088780a/Control%20categories.md)
 
 ## 2.Conduct the audit 
