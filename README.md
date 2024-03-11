@@ -25,14 +25,19 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 [1.2 Control categories](https://github.com/supakitboon/Botium-Toys-Risk-Assessment/blob/019f837af159c63786b2a47b14800bd3af448b08/Control%20categories.md)
 
 ## 2.Conduct the audit 
-### Technical Controls 
-| Control Name | Control type and explanation | Needs to be implemented (X) | Priority |
-| --- | --- | --- | --- |
-| Firewall | Preventative; firewalls ***are already in place*** to filter unwanted/malicious traffic from entering internal network | NA | NA |
-| Intrusion Detection System (IDS) | Detective; allows IT team to identify possible intrusions (e.g., anomalous traffic) quickly | X | High |
-| Encryption | Deterrent; makes confidential information/data more secure (e.g., website payment transactions) | X | High |
-| Backups | Corrective; supports ongoing productivity in the case of an event; aligns to the disaster recovery plan | X | High |
-| Password management system | Corrective; password recovery, reset, lock out notifications | X | High |
-| Antivirus (AV) software | Corrective; detect and quarantine known threats | X | High |
-| Manual monitoring, maintenance, and intervention | Preventative/corrective; required for legacy systems to identify and mitigate potential threats, risks, and vulnerabilities | X | High |
+### Control Assessment Checklist 
+|Yes|No|Control|Explaination| 
+|...|...|...|...|
+
+
+
+
+
+
+
+
+
+
+
+
 
