@@ -25,7 +25,7 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 [1.2 Control categories](https://github.com/supakitboon/Botium-Toys-Risk-Assessment/blob/f4861260ed4b091853e637c4442819c73088780a/Control%20categories.md)
 
 ## 2.Conduct the audit 
-### Control Assessment Checklist 
+### Control and Compliance Checklist 
 #### Does Botium Toys currently have this control in place ?
 | Yes | No | Control Name | Control Type| Explanation | 
 |---|---|---|---|---|
@@ -37,7 +37,8 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 |  | x  | Separation of duties | Preventative | It needs to be implemented for reducing risks and impacts from malicious insider or compromised accounts | 
 | x | | Firewall | Preventative  |A firewall that blocks traffic based on an appropriately defined set of security rules. | 
 | | x | Intrusion Detection SYstem(IDS) | Detective | The company should implement an Intrusion Detection System (IDS) because it helps the IT department quickly identify threats | 
-
+| | x | Backups | Corrective | Currently, there are no backups for critical data. In today's fast-paced world, the ability for a company to recover quickly from incidents is indispensable for remaining competitive. Therefore, having robust backups is essential | 
+|x | | Antivirus software | Correctve | Antivirus software is installed and monitored regularly by the IT department.| 
 
 
 
