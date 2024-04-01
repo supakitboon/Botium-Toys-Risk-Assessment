@@ -73,9 +73,8 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 | | x | 	Data is available to individuals authorized to access it. | Now, all employees have access to internal data| 
 
 #### Recommendation 
-
-
-
+Nowsaday, cyberattacks are increasing significantly.Many companies lost their money and reputation because of cyberattacks, stealing their customer data , company data, etc.
+I would recommend that First, Botium Toys should implement crucial controls such as Least Privilege, separation of duties, password policies, password management system, encryption, disaster recovery plans to reduce risks of data breach and be able to properly recover from attacks. 
 
 
 
