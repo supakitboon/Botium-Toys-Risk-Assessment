@@ -26,9 +26,12 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 
 ## 2.Conduct the audit 
 ### Control Assessment Checklist 
-|Yes|No|Control|Explaination| 
-|...|...|...|...|
-
+#### Does Botium Toys currently have this control in place ?
+| Yes | No | Control | Explanation | 
+|---|---|---|---|
+|  | x | Least Privilege | Currently, all employees have access to internal storage. They may be able to access customer.Therefore, limiting previleges need to be implemented. |
+|  | x | Disaster recovery plans | Disaster recovery plans are not found in the company. These plans are crucial to ensure business continuity.|
+|  | 
 
 
 
