@@ -27,15 +27,16 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 ## 2.Conduct the audit 
 ### Control Assessment Checklist 
 #### Does Botium Toys currently have this control in place ?
-| Yes | No | Control | Explanation | 
-|---|---|---|---|
-|  | x | Least Privilege | Currently, all employees have access to internal storage. They may be able to access customer.Therefore, limiting previleges need to be implemented. |
-|  | x | Disaster recovery plans | Disaster recovery plans are not found in the company. These plans are crucial to ensure business continuity.|
-|  | 
-
-
-
-
+| Yes | No | Control Name | Control Type| Explanation | 
+|---|---|---|---|---|
+|  | x | Least Privilege | Preventative | Currently, all employees have access to internal storage. They may be able to access customer.Therefore, limiting previleges need to be implemented. |
+|  | x | Disaster recovery plans | Corrective | Disaster recovery plans are not found in the company. These plans are crucial to ensure business continuity.|
+|  | x | Password policies | Preventative | The policy does not meet the minimum requirements for password complexity. To reduce the likelihood of account compromise from threats such as brute force attacks and dictionary attacks, the company should adopt stronger password policies |
+|  | x | Access control policies | Preventative | These policies need to be implemented to reduce the risk of a data breach | 
+|  | x | Account management policies | Preventative | There are no account management policies that are reported. It is crucial to have these policies in company for managing account lifecycle.|
+|  | x  | Separation of duties | Preventative | It needs to be implemented for reducing risks and impacts from malicious insider or compromised accounts | 
+| x | | Firewall | Preventative  |A firewall that blocks traffic based on an appropriately defined set of security rules. | 
+| | x | Intrusion Detection SYstem(IDS) | Detective | The company should implement an Intrusion Detection System (IDS) because it helps the IT department quickly identify threats | 
 
 
 
